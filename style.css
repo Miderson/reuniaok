@@ -6,9 +6,8 @@ h1 {text-align: center;
 }
 body {background-color: aquamarine;
 }
-h1 {font-size: 200%;
-}
-.parte01 {background-color: blueviolet;
+h1 {font-size: 210%;
+}.parte01 {background-color: blueviolet;
 }
 .parte01 {color:chartreuse;
 }
@@ -22,5 +21,6 @@ h1 {font-size: 200%;
 }
 .mar {border: 3px solid #020240;
 }
+
 
 
